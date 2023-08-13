@@ -1,0 +1,6 @@
+   0 touch myfirstbashscript.sh
+   1 export USER=Pasha_Oryshchych
+   2 cd /
+   3 sudo nano /etc/environment
+   4 cd ~
+   5 history > history_13.txt
